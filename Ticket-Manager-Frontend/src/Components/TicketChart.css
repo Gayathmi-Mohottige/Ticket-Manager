@@ -1,0 +1,19 @@
+.chart-container {
+    width: 100%; /* Ensure it fits within the right panel */
+    max-width: 100%; /* Prevent overflow */
+    margin: 2rem auto;
+    padding: 2rem;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #1a1a1a, #333333);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .chart-container h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    color: #fff;
+  }
